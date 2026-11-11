@@ -1,0 +1,11 @@
+{
+  "behaviors": {
+    "A": [
+      {"behavior": "short", "times": 2, "then": "normal"}
+    ],
+    "B": [
+      {"behavior": "login", "times": 1, "then": "normal"}
+    ]
+  },
+  "refresh_fail_ids": []
+}

@@ -1,0 +1,34 @@
+{
+  "document_id": "B",
+  "mode": "done",
+  "entity": {
+    "etag": "\"27fda23fc3e138b674a51d9c2986432740ca444919dfa4c094e36a590c6c7c7e\"",
+    "total_length": 687,
+    "resumable": true
+  },
+  "segments": [
+    {
+      "start": 0,
+      "end": 255,
+      "sha256": "5888c5d16d38e429bfcb2b689d77075ccad4a6b5b95888979c45254c9f900ab9",
+      "file": "seg-000000000000-000000000255"
+    },
+    {
+      "start": 256,
+      "end": 511,
+      "sha256": "0fb79df1af4d8bf02334130834efd8364a847fccec1a928dbfe5d30c69bdef3b",
+      "file": "seg-000000000256-000000000511"
+    },
+    {
+      "start": 512,
+      "end": 686,
+      "sha256": "86e2ce6402c1856abe091f2fa2f4ab1eda64bc1dfbd9d43a72addf39c4156997",
+      "file": "seg-000000000512-000000000686"
+    }
+  ],
+  "output_name": "B.pdf",
+  "last_error": null,
+  "attempts": 3,
+  "refreshes": 1,
+  "verified_bytes": 687
+}

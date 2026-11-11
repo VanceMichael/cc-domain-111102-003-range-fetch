@@ -1,0 +1,18 @@
+{
+  "documents": [
+    {
+      "document_id": "A",
+      "media_type": "application/pdf",
+      "sha256": "412c70927b4ded466acd65733d916f7ecf54362426c8f004381d6516d963835a",
+      "refresh_entry": "https://refresh.invalid/A",
+      "url": "https://attachment.invalid/A?temporary=1"
+    },
+    {
+      "document_id": "B",
+      "media_type": "application/pdf",
+      "sha256": "27fda23fc3e138b674a51d9c2986432740ca444919dfa4c094e36a590c6c7c7e",
+      "refresh_entry": "https://refresh.invalid/B",
+      "url": "https://attachment.invalid/B?temporary=1"
+    }
+  ]
+}
