@@ -1,0 +1,10 @@
+{
+  "A": {
+    "file": "A.pdf",
+    "media_type": "application/pdf"
+  },
+  "B": {
+    "file": "B.pdf",
+    "media_type": "application/pdf"
+  }
+}

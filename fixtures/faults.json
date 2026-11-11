@@ -1,0 +1,24 @@
+{
+  "behaviors": [
+    "normal",
+    "ignore",
+    "expired",
+    "login",
+    "short",
+    "wrong_range"
+  ],
+  "segments": [
+    [
+      0,
+      15
+    ],
+    [
+      16,
+      31
+    ],
+    [
+      32,
+      null
+    ]
+  ]
+}
